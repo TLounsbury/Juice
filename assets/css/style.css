@@ -46,7 +46,15 @@ a:active {
     color: lightgreen;
 }
 
+img {
+    margin-bottom: 1em;
+}
+
 body {
 	padding-bottom: 20px;
 	transition: all .5s ease;
+}
+
+.container {
+    margin: 1em;
 }
